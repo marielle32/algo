@@ -3,6 +3,8 @@
  * @desc juste pour les algorithmes
  * @author Aélion - Dec. 2018
  * @version 1.0.0
+ * @version 1.0.1
+ * Externalisation des fonctions dans un fichier exterieur
  */
  /**
   * Retourne la valeur maximum entre deux valeurs
